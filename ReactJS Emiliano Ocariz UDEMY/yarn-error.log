@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js start
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\OpenSSH\bin;C:\Program Files (x86)\Yarn\bin\;C:\apache-ant-1.10.3\bin;C:\Program Files (x86)\Java\jdk1.8.0_171\bin;C:\Users\Usuario\AppData\Local\Android\Sdk\platform-tools;C:\Users\Usuario\AppData\Local\Android\Sdk\tools;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\PuTTY\;C:\xampp\mysql\bin;C:\Program Files\nodejs;C:\Program Files\nodejs\;C:\Users\Usuario\AppData\Roaming\Composer\vendor\bin;C:\Users\Usuario\AppData\Local\Yarn\bin;C:\Users\Usuario\AppData\Roaming\npm;C:\Program Files\nodejs
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  12.14.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "E:\\cursos-1\\ReactJS Emiliano Ocariz UDEMY"
+      at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:109:13

@@ -1,11 +1,13 @@
-import React from 'react';
-import './App.css';
-import WheaterLocation from './pages/WheaterLocation'
+import React from "react";
+import "./App.css";
+import WeaterLocation from "./pages/WeaterLocation";
 
 function App() {
   return (
     <div className="App">
-      <p><WheaterLocation /></p>
+      <p>
+        <WeaterLocation></WeaterLocation>
+      </p>
     </div>
   );
 }
